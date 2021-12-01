@@ -4,3 +4,5 @@ Neste JupyterNotebook, você pode ver todos os parâmetros de locais do mundo, e
 _Utilizando:_
   - **datetime**
   - **pytz**
+
+{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAExVNUnLEE","i":"UsODZqwRDeubRJuj_mgDbQ","b":1638391028637,"A":[{"A?":"I","A":324,"B":324,"D":432,"C":432,"a":{"A":false,"B":{"A":{"A":"MAA9p0fuTI0","B":5},"B":{"D":432,"C":432}}}}],"B":1080,"C":1080}
